@@ -1,0 +1,16 @@
+127.0.0.1 - - [02/Oct/2022:19:28:43 -0500] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Oct/2022:19:28:47 -0500] "GET /SpringMvc/ HTTP/1.1" 200 394
+0:0:0:0:0:0:0:1 - - [02/Oct/2022:19:28:47 -0500] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [02/Oct/2022:19:29:10 -0500] "GET /SpringMvc/patient_register.html HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [02/Oct/2022:19:31:55 -0500] "GET /SpringMvc/index.jsp HTTP/1.1" 200 616
+0:0:0:0:0:0:0:1 - - [02/Oct/2022:19:32:18 -0500] "GET /SpringMvc/patient_register?name=Anjali&password=1234&email=anjali%40gmail.com&phone=9876548910&address=kukatpally HTTP/1.1" 404 682
+127.0.0.1 - - [02/Oct/2022:19:41:40 -0500] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Oct/2022:19:41:41 -0500] "GET /SpringMvc/ HTTP/1.1" 200 616
+0:0:0:0:0:0:0:1 - - [02/Oct/2022:19:41:55 -0500] "GET /SpringMvc/patient_register?name=Anjali&password=1234&email=anjali%40gmail.com&phone=9876548910&address=kukatpally HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [02/Oct/2022:19:50:59 -0500] "GET /SpringMvc/ HTTP/1.1" 200 616
+0:0:0:0:0:0:0:1 - - [02/Oct/2022:19:51:07 -0500] "GET /SpringMvc/patient_register?name=Anjali&password=1234&email=anjali%40gmail.com&phone=9876548910&address=kukatpally HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [02/Oct/2022:19:58:51 -0500] "GET /SpringMvc/ HTTP/1.1" 200 616
+0:0:0:0:0:0:0:1 - - [02/Oct/2022:19:58:57 -0500] "GET /SpringMvc/patient_register?name=Anjali&password=1234&email=anjali%40gmail.com&phone=9876548910&address=kukatpally HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [02/Oct/2022:20:00:33 -0500] "GET /SpringMvc/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [02/Oct/2022:20:00:36 -0500] "GET /SpringMvc/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [02/Oct/2022:20:00:37 -0500] "GET /SpringMvc/ HTTP/1.1" 404 682

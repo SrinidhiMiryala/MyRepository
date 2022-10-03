@@ -1,0 +1,23 @@
+<html>
+<body bgcolor="wheat">
+<br><br><br>
+<h1 align ='Center'>Welcome to Doctor Register</h1>
+
+<br><br><br>
+<form action="./doctor_register" method="get" align="center">
+<input type="text" name="name" placeholder="Enter name">
+<input type="password" name="password" placeholder="Enter password">
+<input type="email" name="email" placeholder="Enter email">
+<input type="text" name="xyz" placeholder="Enter Phone">
+
+<select name="specialisation"> 
+<option value="ENT">ENT</option>
+<option value="Heart">Heart</option>
+<option value="Dentist">Dentist</option>
+<option value="Nuerologist">neurologist</option>
+</select>
+
+<input type="submit" value="Register">
+</form>
+</body>
+</html>

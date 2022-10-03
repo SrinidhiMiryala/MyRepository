@@ -1,0 +1,13 @@
+127.0.0.1 - - [27/Sep/2022:14:31:15 -0500] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [27/Sep/2022:14:32:28 -0500] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Sep/2022:14:32:48 -0500] "GET /Servlets/doctor_register HTTP/1.1" 200 102
+0:0:0:0:0:0:0:1 - - [27/Sep/2022:14:32:48 -0500] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [27/Sep/2022:14:33:04 -0500] "GET /Servlets/doctor_register.html HTTP/1.1" 200 702
+0:0:0:0:0:0:0:1 - - [27/Sep/2022:14:33:39 -0500] "GET /Servlets/doctor_register?name=srinidhi&password=1234&email=srinidhi%40gmail.com&789=98786534&specialisation=Nuerologist HTTP/1.1" 200 102
+0:0:0:0:0:0:0:1 - - [27/Sep/2022:14:36:38 -0500] "GET /Servlets/doctor_register HTTP/1.1" 200 102
+0:0:0:0:0:0:0:1 - - [27/Sep/2022:14:36:47 -0500] "GET /Servlets/doctor_register.html HTTP/1.1" 200 702
+0:0:0:0:0:0:0:1 - - [27/Sep/2022:14:37:59 -0500] "GET /Servlets/doctor_register?name=anjali&password=1897&email=anjali%40gmail.com&xyz=98756787&specialisation=ENT HTTP/1.1" 200 102
+127.0.0.1 - - [27/Sep/2022:14:42:15 -0500] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Sep/2022:14:42:21 -0500] "GET /Servlets/doctor_register HTTP/1.1" 200 102
+0:0:0:0:0:0:0:1 - - [27/Sep/2022:14:42:27 -0500] "GET /Servlets/doctor_register.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/Sep/2022:14:42:50 -0500] "GET /Servlets/doctor_register?name=anjali&password=123456&email=anjali27%40gmail.com&xyz=98756787&specialisation=Heart HTTP/1.1" 200 102

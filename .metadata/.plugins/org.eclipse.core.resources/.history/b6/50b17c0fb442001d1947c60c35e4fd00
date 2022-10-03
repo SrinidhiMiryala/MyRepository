@@ -1,0 +1,31 @@
+package com.ex;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class AppointmentController {
+	
+	@RequestMapping("/patient_register")
+	public String register(HttpServletRequest request,HttpServletResponse response) {
+		String name= request.getParameter("name");
+		String password = request.getParameter("password");
+		String email = request.getParameter("email");
+		String mobile = request.getParameter("phone");
+		String address = request.getParameter("address");
+		
+		request.setAttribute("name", name);
+		request.setAttribute("password", password);
+		request.setAttribute("email", email);
+		request.setAttribute("mobile", mobile);
+		request.setAttribute("address", address);
+		
+		
+		return "display";
+		
+	}
+
+}

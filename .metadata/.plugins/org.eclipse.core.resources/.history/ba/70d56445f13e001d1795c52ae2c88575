@@ -1,0 +1,13 @@
+
+<html>
+
+<body bgcolor="pink">
+<h1 align="center">Welcome to Patient Login</h1>
+	<form action="./patient_login" method = "get" align="center">
+	
+		<input type="email" name="email" placeholder="Enter email address: ">
+		<input type="password" name="password" placeholder="Enter password: ">
+		<input type="submit" value="Login">
+	</form>
+</body>
+</html>

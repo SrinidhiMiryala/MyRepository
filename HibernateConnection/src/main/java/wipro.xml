@@ -1,0 +1,13 @@
+<!DOCTYPE hibernate-mapping PUBLIC 
+"-//Hibernate/Hibernate Mapping DTD//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd"> 
+
+
+<hibernate-mapping>
+<class name="com.ex.wipro" table="wipro">
+<id name="eid" column="eid"></id>
+<property name="salary" column="salary"/>
+<property name="name" column="name"/>
+<property name="branch" column="branch"/>
+</class>
+</hibernate-mapping>

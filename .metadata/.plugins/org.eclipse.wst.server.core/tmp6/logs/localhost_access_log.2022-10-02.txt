@@ -1,0 +1,4 @@
+127.0.0.1 - - [02/Oct/2022:20:06:32 -0500] "GET / HTTP/1.1" 404 748
+0:0:0:0:0:0:0:1 - - [02/Oct/2022:20:06:54 -0500] "GET /SpringMvc/index.jsp HTTP/1.1" 200 616
+0:0:0:0:0:0:0:1 - - [02/Oct/2022:20:06:54 -0500] "GET /favicon.ico HTTP/1.1" 404 759
+0:0:0:0:0:0:0:1 - - [02/Oct/2022:20:07:01 -0500] "GET /SpringMvc/patient_register?name=Anjali&password=1234&email=anjali%40gmail.com&phone=9876548910&address=kukatpally HTTP/1.1" 404 683
