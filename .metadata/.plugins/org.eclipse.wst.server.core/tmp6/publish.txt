@@ -1,3 +1,0 @@
-#Tomcat publish data
-#Mon Oct 03 12:55:20 CDT 2022
-org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\srini\\.m2\\repository\\org\\springframework\\spring-web\\5.1.20.RELEASE\\spring-web-5.1.20.RELEASE.jar=WEB-INF/lib/spring-web-5.1.20.RELEASE.jar

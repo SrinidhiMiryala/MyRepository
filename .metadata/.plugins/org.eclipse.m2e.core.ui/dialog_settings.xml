@@ -49,11 +49,14 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.jnit"/>
 			<item value="com.ex"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="SpringBootRest"/>
+			<item value="SpringbootJpa"/>
 			<item value="SpringBoot"/>
 		</list>
 		<list key="projectNameTemplate">
